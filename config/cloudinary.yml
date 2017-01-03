@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dbowb3hzf
+  api_key: '279726647946176'
+  api_secret: kiyYoSaDxG000KyrRICYoCwKw7Q
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: dbowb3hzf
+  api_key: '279726647946176'
+  api_secret: kiyYoSaDxG000KyrRICYoCwKw7Q
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: dbowb3hzf
+  api_key: '279726647946176'
+  api_secret: kiyYoSaDxG000KyrRICYoCwKw7Q
+  enhance_image_tag: true
+  static_image_support: false
